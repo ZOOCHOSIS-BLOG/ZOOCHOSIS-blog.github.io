@@ -16,12 +16,10 @@ timezone:
 
 title: ZOOCHOSIS blog// # the main title
 
-tagline: I think about people and sound all of the time // 
-  I had to get the thoughts out//  
-                                                                                   
-
- # it will display as the subtitle
-
+tagline: >-
+ I think about people and sound all of the time//
+ I had to get the thoughts out//
+                                                                                 
 description: >- # used by seo meta and the atom feed
   zoochosis, blog, ZOOCHOSIS, ZOOCHOSIS blog, ZOOCHOSIS-blog, zoochosis github, sound blog, musicology blog, musicology, sound, music, sound art, sound studies, soundscape, soundscape ecology, soundscape analysis, anthropology, music academia, musicology academia, sound studies academia, soundscape ecology academia, soundscape analysis academia, sound blog, sound studies blog, soundscape ecology blog, soundscape analysis blog, musicology blog, musicology academia blog
 
