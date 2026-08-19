@@ -15,12 +15,8 @@ timezone:
 # ↓ --------------------------
 
 title: ZOOCHOSIS blog # the main title
-
-tagline: >
- I think about people and sound all of the time// 
- I had to get the thoughts out//    
                                                                               
-description: >- # used by seo meta and the atom feed
+description: >-
   zoochosis, blog, ZOOCHOSIS, ZOOCHOSIS blog, ZOOCHOSIS-blog, zoochosis github, sound blog, musicology blog, musicology, sound, music, sound art, sound studies, soundscape, soundscape ecology, soundscape analysis, anthropology, music academia, musicology academia, sound studies academia, soundscape ecology academia, soundscape analysis academia, sound blog, sound studies blog, soundscape ecology blog, soundscape analysis blog, musicology blog, musicology academia blog
 
 
@@ -36,10 +32,9 @@ instagram::
 
 social:
   # Change to your full name.
-  # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Phoebe
-  email: phoebe.jg24@gmail.com # change to your email address
-  fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
+  name: Phoebe Jennings-Gartside
+  email: phoebe.jg24@gmail.com 
+  
   links:
     # The first element serves as the copyright owner's link
     - https://instagram.com/ZOOCHOSIS__ 
@@ -79,19 +74,9 @@ analytics:
 
 # Page views settings
 pageviews:
-  provider: # now only supports 'goatcounter'
+  provider: 'goatcounter'
 
-# Prefer color scheme setting.
-#
-# Note: Keep empty will follow the system prefer color by default,
-# and there will be a toggle to switch the theme between dark and light
-# on the bottom left of the sidebar.
-#
-# Available options:
-#
-#     light — Use the light color scheme
-#     dark — Use the dark color scheme
-#
+
 theme_mode: # [light | dark]
 
 # The CDN endpoint for media resources.
@@ -101,8 +86,7 @@ theme_mode: # [light | dark]
 # e.g. 'https://cdn.com'
 cdn:
 
-# the avatar on sidebar, support local or CORS resources
-avatar: https://lh3.googleusercontent.com/pw/AP1GczO67XTEWozXdi8xQNoCoCant53tPrz825J2WqKdWejzAmJHvz8Axt5ygtbayrJ7ZmDRTIBjLTfQP2ZOb_2FBWBM09CRcNZFpKbB73-WxZxB2pVpJ4M=w2400
+
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
 social_preview_image: # string, local or CORS resources
