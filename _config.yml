@@ -102,8 +102,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://vscode.dev/github/ZOOCHOSIS-BLOG/ZOOCHOSIS-blog.github.io/blob/main/assets/img/avatar/zoochosis%20favicon.JPG
-
+avatar: https://lh3.googleusercontent.com/pw/AP1GczO67XTEWozXdi8xQNoCoCant53tPrz825J2WqKdWejzAmJHvz8Axt5ygtbayrJ7ZmDRTIBjLTfQP2ZOb_2FBWBM09CRcNZFpKbB73-WxZxB2pVpJ4M=w2400
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
 social_preview_image: # string, local or CORS resources
